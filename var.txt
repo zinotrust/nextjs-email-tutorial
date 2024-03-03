@@ -1,0 +1,12 @@
+EMAIL_HOST=smtp.gmail.com
+EMAIL_USER=example@gmail.com
+EMAIL_PASS=sjfhbs
+
+AWS_SMTP_HOST=amazonaws.com
+AWS_EMAIL_USER=example@gmail.com
+
+AWS_IAM_USERNAME=32452
+AWS_SMTP_USERNAME=AKIA
+AWS_SMTP_PASSWORD=BA7h0
+
+RESEND_KEY=re_LD
